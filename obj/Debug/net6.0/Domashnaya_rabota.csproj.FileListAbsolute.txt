@@ -1,0 +1,15 @@
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\bin\Debug\net6.0\Domashnaya_rabota.exe
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\bin\Debug\net6.0\Domashnaya_rabota.deps.json
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\bin\Debug\net6.0\Domashnaya_rabota.runtimeconfig.json
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\bin\Debug\net6.0\Domashnaya_rabota.dll
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\bin\Debug\net6.0\Domashnaya_rabota.pdb
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\obj\Debug\net6.0\Domashnaya_rabota.csproj.AssemblyReference.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\obj\Debug\net6.0\Domashnaya_rabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\obj\Debug\net6.0\Domashnaya_rabota.AssemblyInfoInputs.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\obj\Debug\net6.0\Domashnaya_rabota.AssemblyInfo.cs
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\obj\Debug\net6.0\Domashnaya_rabota.csproj.CoreCompileInputs.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\obj\Debug\net6.0\Domashnaya_rabota.dll
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\obj\Debug\net6.0\refint\Domashnaya_rabota.dll
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\obj\Debug\net6.0\Domashnaya_rabota.pdb
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\obj\Debug\net6.0\Domashnaya_rabota.genruntimeconfig.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Dom_Rab\Domashnaya_rabota\obj\Debug\net6.0\ref\Domashnaya_rabota.dll
